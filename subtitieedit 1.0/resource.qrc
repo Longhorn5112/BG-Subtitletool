@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>test.qss</file>
+        <file>logo.png</file>
+        <file>header.png</file>
+        <file>C:/Users/Longhorn/Desktop/QUI-Creator-master/other/qss/psblack/branch_close.png</file>
+        <file>C:/Users/Longhorn/Desktop/QUI-Creator-master/other/qss/psblack/branch_open.png</file>
+        <file>C:/Users/Longhorn/Desktop/QUI-Creator-master/other/qss/psblack/checkbox_unchecked_disable.png</file>
+        <file>C:/Users/Longhorn/Pictures/Camera Roll/10041.png</file>
+    </qresource>
+</RCC>
